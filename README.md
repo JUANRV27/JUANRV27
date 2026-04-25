@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy Juan José Rodríguez
 
-<!--
-**JUANRV27/JUANRV27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ciencias de la Computación (7mo ciclo)  
+🚀 Interesado en desarrollo backend y aplicaciones web  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+- Python, C++
+- JavaScript / TypeScript
+- Flask, Next.js, Angular
+- PostgreSQL, MongoDB
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos destacados
+- Red Social (Docker + Flask + DB)
+- Web App con Next.js
+- Landing Page UI
+
+## 📫 Contacto
+- Email: rodriguezvelasquezjuanjose11@gmail.com
+- LinkedIn: [pon tu link]
+
