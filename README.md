@@ -17,5 +17,5 @@
 
 ## 📫 Contacto
 - Email: rodriguezvelasquezjuanjose11@gmail.com
-- LinkedIn: [pon tu link]
+- LinkedIn: www.linkedin.com/in/juan-josé-r-bbbb74264
 
