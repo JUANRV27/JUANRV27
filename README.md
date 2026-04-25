@@ -6,7 +6,7 @@
 ## 🛠️ Tecnologías
 - Python, C++
 - JavaScript / TypeScript
-- Flask, Next.js, Angular
+- Flask, Next.js, Angular, ReactJS
 - PostgreSQL, MongoDB
 - Docker
 
