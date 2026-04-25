@@ -18,6 +18,3 @@
 ## 📫 Contacto
 - Email: rodriguezvelasquezjuanjose11@gmail.com
 - LinkedIn: www.linkedin.com/in/juan-josé-r-bbbb74264
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=JUANRV27&show_icons=true)
