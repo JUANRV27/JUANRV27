@@ -14,6 +14,7 @@
 - Red Social (Docker + Flask + DB)
 - Web App con Next.js
 - Landing Page UI
+- PictoChat - Proyecto web de chat de pictogramas para comunicación aumentativa
 
 ## 📫 Contacto
 - Email: rodriguezvelasquezjuanjose11@gmail.com
