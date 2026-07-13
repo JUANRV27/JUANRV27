@@ -1,21 +1,21 @@
 # 👋 Hola, soy Juan José Rodríguez
 
-💻 Estudiante de Ciencias de la Computación (7mo ciclo)  
-🚀 Interesado en desarrollo backend y aplicaciones web  
+Estudiante de Ciencias de la Computación (7mo ciclo)  
+Interesado en Data Science, aplicaciones web e IA 
 
-## 🛠️ Tecnologías
+## Tecnologías
 - Python, C++
 - JavaScript / TypeScript
 - Flask, Next.js, Angular, ReactJS
 - PostgreSQL, MongoDB
 - Docker
 
-## 📌 Proyectos destacados
+## Proyectos destacados
 - Red Social (Docker + Flask + DB)
 - Web App con Next.js
 - Landing Page UI
 - PictoChat - Proyecto web de chat de pictogramas para comunicación aumentativa
 
-## 📫 Contacto
+## Contacto
 - Email: rodriguezvelasquezjuanjose11@gmail.com
 - LinkedIn: www.linkedin.com/in/juan-josé-r-bbbb74264
