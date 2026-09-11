@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan José Rodríguez
 
-Estudiante de Ciencias de la Computación (7mo ciclo)  
+Estudiante de Ciencias de la Computación (8vo ciclo)  
 Interesado en Data Science, aplicaciones web e IA 
 
 ## Tecnologías
